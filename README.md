@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilmi Jayanetthi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmij&label=Profile%20views&color=0e75b6&style=flat" alt="dilmij" /> </p>
 
