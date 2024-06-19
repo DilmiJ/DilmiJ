@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmij&label=Profile%20views&color=0e75b6&style=flat" alt="dilmij" /> </p>
 
-- 🔭 I’m currently working on **OOP**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **C , C++ ,JAVA**
 
